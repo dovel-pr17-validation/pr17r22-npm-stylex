@@ -1,0 +1,11 @@
+*.log*
+.DS_Store
+.build
+.docusaurus
+.stylex
+build
+coverage
+dist
+lib
+node_modules
+storybook-static
